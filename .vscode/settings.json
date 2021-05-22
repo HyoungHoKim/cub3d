@@ -1,0 +1,5 @@
+{
+    "42norminette.command": "~/.norminette/norminette.rb",
+    "editor.comments.insertSpace": false,
+    "editor.renderWhitespace": "all"
+}
